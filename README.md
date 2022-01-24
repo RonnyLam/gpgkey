@@ -1,2 +1,2 @@
-# gpgkey
-My gpg public key
+# My public GPG key
+This is my public gpg key, which you can also find on keyservers worldwide.
